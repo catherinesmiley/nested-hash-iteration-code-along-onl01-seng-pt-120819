@@ -14,9 +14,8 @@ require 'pry'
   #   }
   # }
   
- def remove_strawberry(contacts)
-   
- 
+def remove_strawberry(contacts)
+  contacts.each do |name,   
  
   
   
